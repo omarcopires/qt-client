@@ -1,3 +1,7 @@
+# Personal settings and minimap should be ignored
 cache/*
 conf/*
 log/*
+BattlEye/*
+minimap/*
+characterdata/*
