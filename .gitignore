@@ -2,7 +2,7 @@
 cache/*
 conf/*
 log/*
-BattlEye/*
+bin/BattlEye/*
 minimap/*
 characterdata/*
 storeimages/*
